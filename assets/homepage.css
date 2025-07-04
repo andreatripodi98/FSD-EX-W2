@@ -7,3 +7,6 @@ header a:hover {
 main .container-fluid img:hover {
 transform: scale(1.10);
 }
+header nav {
+    background: linear-gradient(to bottom, black, #212529);
+}

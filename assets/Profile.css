@@ -33,3 +33,6 @@ button {
     background-color: rgb(248, 11, 11)!important;
     color:rgb(255, 255, 255)!important;
 }
+header {
+    background: linear-gradient(to bottom, black, #212529);
+}
