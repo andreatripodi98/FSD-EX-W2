@@ -4,3 +4,6 @@ filter: brightness(85%);
 header a:hover {
    filter: brightness(85%);
 }
+main .container-fluid img:hover {
+transform: scale(1.10);
+}
