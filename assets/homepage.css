@@ -1,0 +1,6 @@
+.hero a:hover {
+filter: brightness(85%);
+}
+header a:hover {
+   filter: brightness(85%);
+}
